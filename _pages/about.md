@@ -9,8 +9,8 @@ profile:
   image: lyc_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>No. 3-11, Wenhua Road, Heping District</p>
-    <p>Shenyang, P. R. China</p>
+    <p>No. 3-11, Wenhua Road</p>
+    <p>Heping District, Shenyang, P. R. China</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
